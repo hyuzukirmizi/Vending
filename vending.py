@@ -1,7 +1,3 @@
-# Author   : Haluk Yuzukirmizi
-# Email    : hyuzukirmizi@umass.edu
-# Spire ID : 34419060
-
 class VendingMachine:
     def __init__(self,balance=0,total_sales=0,history=[],historycost={}):
         self.items_list= {}
